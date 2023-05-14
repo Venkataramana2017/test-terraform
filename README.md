@@ -4,7 +4,7 @@ hello venkat this is pranathi
 iam every day practicing linux commands
 thanku
 #################
-#### i am  sreenivas eegala please accept my love request so that we start loving each orther ####
+#### i am  sreenivas eegala please accept my love request so that we start loving each orther there will be a time ####
 this is git reamme.md file update from me -- your name
 keep you readme.md file in your vs code we have to be aware of something 
 
