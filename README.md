@@ -4,7 +4,7 @@ hello venkat this is pranathi
 iam every day practicing linux commands
 thanku
 #################
-#### i am <your name >####
+#### i am  sreenivas ####
 this is git reamme.md file update from me -- your name
 keep you readme.md file in your vs code
 
